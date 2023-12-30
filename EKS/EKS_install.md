@@ -1,5 +1,5 @@
 
-# EKS cluster installation and ALB , EBS CSI setup plugin Guide 
+# EKS cluster installation and ALB , EBS CSI plugin setup Guide 
 
 EKS cluster creation using Fargate Profile and Node group
 # prerequisites
